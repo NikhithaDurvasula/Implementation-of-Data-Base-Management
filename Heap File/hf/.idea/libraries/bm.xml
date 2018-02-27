@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/hf/bm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
