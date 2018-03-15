@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ix">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
